@@ -1,0 +1,497 @@
+@media (max-width:1199px) {
+    .container1 {
+
+        padding: 0px 40px;
+    }
+
+    .nav-bottom .inner .right .search-bar {
+        display: none;
+    }
+
+    .nav-bottom .inner .right .inner .search {
+        display: block;
+    }
+
+    .newsletter .inner .left .icon {
+        padding: 0px 6px;
+    }
+
+    .banner-section .inner .item .item-inner .image .containt .text {
+        font-size: 23px;
+    }
+
+    .banner-section .inner .item .item-inner .image .banner2-containt .pizza {
+        font-size: 75px;
+    }
+
+    .banner-section .inner .item .item-inner .image .banner2-containt .outer {
+        font-size: 25px;
+    }
+
+    .brands .inner .item {
+        padding: 10px 37px;
+    }
+
+    .banner-main .containt {
+        left: 5%;
+        font-size: 45px;
+    }
+}
+
+@media (max-width:991px) {
+    .container1 {
+        padding: 0px 30px;
+    }
+
+    .nav-bottom .inner .midd .menu-list {
+        display: none;
+    }
+    .midd .menu-list .main-li .inner{
+        width: 300px;
+    }
+    .midd .menu-list li #categories-inner {
+        left: 0px
+    }
+    .midd .menu-list #shop .inner .top{
+        flex-wrap: wrap
+    }
+    .midd .menu-list #shop .inner .top .inner-menu {
+        width: 50%;
+    }
+    .midd .menu-list #shop .inner .bottom{
+        flex-wrap: wrap;
+    }
+    .midd .menu-list #shop .inner .bottom .image {
+        width: 100%;
+    }
+    #side-bar .menu-list #pages .top .inner-menu {
+        width: 100%;
+    }
+    .nav-bottom .inner .right .inner .toggle-bar {
+        display: block;
+        padding: 0px 15px;
+    }
+
+    .banner-main .sale {
+        width: 100px;
+        height: 100px;
+    }
+
+    .banner-main .sale span:nth-child(1) {
+        font-size: 12px;
+        padding: 0px 5px;
+    }
+
+    .banner-main .sale span:nth-child(2) {
+        font-size: 33px;
+        padding: 0px 0 0;
+        margin-top: 3px;
+    }
+
+    .banner-main .sale span:nth-child(3) {
+        font-size: 27px;
+        font-weight: 500;
+        margin-top: 8px;
+    }
+
+    .banner-main .right {
+        display: none;
+    }
+
+    .banner-main .containt {
+        text-align: right;
+        right: 2%;
+        font-size: 38px;
+    }
+
+    .banner-main .containt .btn {
+        text-align: end;
+    }
+
+    .banner::before {
+        background: none;
+    }
+
+    .newsletter .inner .right .email>input {
+        width: 80%;
+    }
+
+    .newsletter .inner .right .email .btn {
+        position: absolute;
+        right: -6%;
+        top: 0;
+    }
+
+    .newsletter .inner .right {
+        text-align: inherit;
+        margin-top: 4%;
+    }
+
+    .newsletter .inner .left .icon {
+        margin: 0 5px 0 0;
+    }
+
+    .newsletter .inner .left .icon {
+        padding: 0px 15px;
+    }
+
+    .banner-section .inner {
+        flex-wrap: wrap;
+    }
+
+    .banner-section .inner .item {
+        width: 100%;
+    }
+
+    .banner-section .inner .item:last-child {
+        padding: 20px 0px 0px 0px;
+    }
+
+    .banner-section .inner .item:first-child {
+        padding: 0px 0px 0px 0px;
+    }
+
+    .banner-section .inner .item .item-inner .image .containt .text {
+        font-size: 44px;
+        line-height: 52px;
+    }
+
+    .banner-section .inner .item .item-inner .image .containt .btn {
+        margin-top: 38px;
+    }
+
+    .banner-section .inner .item .item-inner .image .banner2-containt .outer {
+        font-size: 30px;
+    }
+
+    .banner-section .inner .item .item-inner .image .banner2-containt .pizza {
+        font-size: 90px;
+    }
+
+    .banner-section .inner .item .item-inner .image .banner2-containt {
+        top: 80px;
+        left: 50px;
+    }
+
+    .brands .inner .item {
+        padding: 10px 14px;
+    }
+
+    .footer .inner {
+        flex-wrap: wrap;
+    }
+
+    .footer .inner .item {
+        width: 50%;
+        padding: 15px 15px;
+        box-sizing: border-box;
+    }
+
+    .banner .inner-banner .left::before {
+        width: 100%;
+    }
+    .side-main{
+        display: none;
+    }
+    .res-side-main{
+        display: block;
+    } 
+    .inner-pages{
+        flex-wrap: wrap;
+    }
+    .inner-pages > .left{
+        display: none;
+        width: 100%;
+    }
+    .inner-pages .right{
+        width: 100%;
+    }
+    .faq-left{
+        display: block;
+        width: 100%;
+    }
+
+    .inner-pages .right {
+        width: 100%;
+        padding-left: 0px;
+        box-sizing: border-box;
+    }
+  
+    .inner-pages .contact-left {
+        width: 100%;
+    }
+    .account-inner .inner {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .account-inner .inner .left{
+       width: 100%;
+    }
+    .account-inner .inner .right{
+       width: 100%;
+       margin-top: 20px;
+    }
+    .blog-side-image{
+        display: none;
+    }
+}
+
+@media (max-width:768px) {
+    .container1 {
+        padding: 0px 20px;
+    }
+
+    .newsletter .inner {
+        flex-wrap: wrap;
+    }
+
+    .newsletter .inner .left {
+        display: flex;
+        flex-wrap: wrap;
+        width: 100%;
+    }
+
+    .newsletter .inner .right {
+        width: 100%;
+    }
+
+    .newsletter .inner .left .icon {
+        padding: 0px 0px;
+    }
+
+    .newsletter .inner .left .icon {
+        margin: 0 20px 0 0;
+    }
+
+    .newsletter .inner .right .email .btn {
+        right: 14px;
+    }
+
+    .banner-section .inner .item .item-inner .image .containt .btn {
+        margin-top: 0px;
+    }
+
+    .banner-section .inner .item .item-inner .image .containt .text {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .banner-main .containt {
+        font-size: 35px;
+    }
+
+    .banner .inner-banner .left::before {
+        width: 100%;
+    }
+
+    .footer {
+        display: none;
+    }
+
+    .rfooter {
+        display: block;
+    }
+}
+.contact-main form {
+	padding: 0px;
+}
+.contact-main form .name label {
+	padding: 0px 0px;
+	padding-right: 5px;
+	padding-left: 0;
+	margin-top: 20px;
+}
+
+@media (max-width:639px) {
+    .container1 {
+        padding: 0px 10px;
+    }
+
+    .nav-top .inner .left a span {
+        display: none;
+    }
+
+    .nav-top .inner .right {
+        width: 90%;
+    }
+
+    .nav-top .inner .left {
+        width: 10%;
+    }
+
+    .service .inner {
+        flex-wrap: wrap;
+    }
+
+    .service .inner .item {
+        width: 50%;
+        padding: 10px 15px;
+        box-sizing: border-box;
+    }
+
+    .banner-main .containt {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .newsletter .inner .left {
+        justify-content: center;
+    }
+
+    .banner-section .inner .item .item-inner .image .containt .text {
+        font-size: 20px;
+        line-height: 22px;
+    }
+
+    .banner-section .inner .item .item-inner .image .containt .btn a {
+        padding: 10px 23px;
+    }
+
+    .banner-section .inner .item .item-inner .image .sale {
+        right: 32%;
+    }
+
+    .banner-section .inner .item .item-inner .image .banner2-sale {
+        top: 3px;
+        right: 28%;
+    }
+
+    .banner-section .inner .item .item-inner .image .banner2-containt .pizza {
+        font-size: 70px;
+    }
+
+    .banner-section .inner .item .item-inner .image .banner2-containt .outer {
+        font-size: 23px;
+    }
+
+    .banner-section .inner .item .item-inner .image .banner2-containt {
+        top: 20%;
+        left: 16px;
+    }
+    
+    .brands .inner .item:nth-child(1) {
+        display: none;
+    }
+
+    .brands .inner .item:nth-child(2) {
+        display: none;
+    }
+
+    .brands .inner .item:nth-child(3) {
+        display: none;
+    }
+
+    .brands .inner .item {
+        width: 33.33%;
+        padding: 0px 35px;
+        box-sizing: border-box;
+    }
+
+    .banner .inner-banner .left::before {
+        width: 100%;
+    }
+
+    .banner-main .containt .btn a {
+        padding: 10px 31px;
+    }
+    .blog-main .inner .item {
+        width: 100%;
+    }
+}
+
+@media (max-width:479px) {
+    .category .inner .item .inner-child {
+        margin-bottom: 0px;
+        padding: 28px 0px 25px;
+    }
+
+    .banner-section .inner .item .item-inner .image .sale {
+        top: 9px;
+        height: 60px;
+        width: 60px;
+        padding: 0px 0;
+    }
+
+    .banner-section .inner .item .item-inner .image .sale {
+        line-height: 26px;
+        font-size: 14px;
+    }
+
+    .banner-section .inner .item .item-inner .image .containt .btn {
+        margin-top: 22px;
+    }
+
+    .banner-section .inner .item .item-inner .image .containt .btn a {
+        padding: 7px 14px;
+    }
+
+    .banner-section .inner .item .item-inner .image .containt {
+        left: 2%;
+    }
+
+    .banner-section .inner .item .item-inner .image .sale {
+        right: 23%;
+    }
+
+    .banner-section .inner .item .item-inner .image .banner2-sale {
+        top: 15px;
+        right: 15%;
+    }
+
+    .banner-section .inner .item .item-inner .image .banner2-containt .pizza {
+        font-size: 60px;
+    }
+
+    .banner-section .inner .item .item-inner .image .banner2-containt .outer {
+        font-size: 19px;
+    }
+
+    .nav-top .inner .right span {
+        font-size: 12px;
+        color: #fff;
+    }
+
+    .footer .inner .item {
+        width: 100%;
+    }
+
+    .banner .inner-banner .left::before {
+        width: 100%;
+    }
+
+    .banner-main .containt .btn a {
+        padding: 10px 31px;
+    }
+
+    .brands .inner .item {
+        padding: 0px 20px;
+    }
+
+    .banner-section .inner .item .item-inner .image .sale span {
+        font-size: 18px;
+    }
+
+    .blog .inner .item .bottom .date {
+        padding: 7px 5px;
+    }
+
+    .newsletter .inner .right .email .btn input {
+        padding: 9px 6px;
+        font-size: 14px;
+    }
+
+    .newsletter .inner .right .email>input {
+        padding: 9px 6px;
+        font-size: 14px;
+    }
+    .side-map .inner {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .side-map .inner .left-menu {
+        width: 100%;
+    }
+    .side-map .inner .right-menu {
+        width: 100%;
+    }
+}
